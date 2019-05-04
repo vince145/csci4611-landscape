@@ -1,0 +1,13 @@
+(IF repository not cloned already)
+git clone https://github.com/vince145/csci4611-landscape.git
+
+git pull
+
+git add ./
+
+git status
+
+git commit -m "Your message here"
+
+git push
+
